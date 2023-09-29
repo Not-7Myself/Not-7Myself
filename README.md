@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Not-7Myself
-- I’m interested in Software Engineering
-- I’m currently learning Javascript, HTML and CSS
+- I’m currently learning Javascript, HTML and CS
 - Reach me Using my Discord: NotMyself#5342
 
 <!---
