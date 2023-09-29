@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Not-7Myself
-- I’m currently learning Javascript, HTML and CS
+- I’m currently learning Python
 - Reach me Using my Discord: NotMyself#5342
 
 <!---
